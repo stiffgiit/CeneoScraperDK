@@ -23,7 +23,7 @@
         "opinion_date": "2023-09-29 08:17:32",
         "purchase_date": "2023-09-23 09:41:10",
         "up_vote": "3",
-        "down_vote": "18"
+        "down_vote": "21"
     },
     {
         "opinion_id": "17616026",
@@ -100,7 +100,7 @@
         "pros": [],
         "opinion_date": "2023-09-07 09:58:49",
         "purchase_date": null,
-        "up_vote": "7",
+        "up_vote": "8",
         "down_vote": "6"
     },
     {
@@ -114,7 +114,7 @@
         "opinion_date": "2023-08-17 14:37:23",
         "purchase_date": "2023-08-02 17:34:42",
         "up_vote": "2",
-        "down_vote": "3"
+        "down_vote": "4"
     },
     {
         "opinion_id": "17827306",
@@ -130,4 +130,3 @@
         "down_vote": "5"
     }
 ]
-
